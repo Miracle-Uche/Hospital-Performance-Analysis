@@ -20,3 +20,8 @@ The tools used for project was Microsoft Excel, Power BI and SQL.
 * Microsoft Excel power query was used to clean the data set.
 * SQL was used to derive the insights.
 * Power BI was used to create the visuals.
+# Explorarory Data Analysis
+## Insights from Encounters Analysis
+## Recommendations from Encounters Analysis
+## Insights from Procedure Analysis
+## Recommendations from Procedure Analysis
