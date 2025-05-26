@@ -17,6 +17,6 @@ I explored patient visit trends, insurance coverage efficiency, high-cost proced
 - Provide data-driven recommendations to improve healthcare delivery and resource planning.
 # Data Analytics Tools
 The tools used for project was Microsoft Excel, Power BI and SQL.
-Microsoft Excel power query was used to clean the data set.
-SQL was used to derive the insights.
-Power BI was used to create the visuals.
+* Microsoft Excel power query was used to clean the data set.
+* SQL was used to derive the insights.
+* Power BI was used to create the visuals.
