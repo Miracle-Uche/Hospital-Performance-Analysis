@@ -9,3 +9,14 @@ I explored patient visit trends, insurance coverage efficiency, high-cost proced
 - Payers: Contains information about insurance providers and financial coverage.
 - Patients: Demographic details of patients.
 - Admissions: Derived from the Encounters data, filtered specifically for inpatient hospital admissions.
+# General Objectives
+- Analyze trends in hospital admissions and patient encounters.
+- Evaluate payer contributions and identify gaps in insurance coverage.
+- Identify the most common and cost-intensive medical procedures.
+- Detect seasonal or monthly trends affecting hospital operations.
+- Provide data-driven recommendations to improve healthcare delivery and resource planning.
+# Data Analytics Tools
+The tools used for project was Microsoft Excel, Power BI and SQL.
+Microsoft Excel power query was used to clean the data set.
+SQL was used to derive the insights.
+Power BI was used to create the visuals.
